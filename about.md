@@ -7,7 +7,6 @@ description: >-
 ![ScreenShot](/assets/images/about_new.png)
 
 [Let us know you're interested!](https://docs.google.com/forms/d/e/1FAIpQLSd19YpgIfzDTT-Ncm3IHbNcUl40HfMRQXTs_ffzgJlY-mSJSg/viewform?usp=sf_link){: .btn .btn-purple }
-
 ## Why Data Science
 
 Data is everywhere. In every career path, academic discipline, and even everyday life, data is the driving force of the modern world. It’s no exaggeration then to say that a competency in data science opens you up to a brand new toolbox of untold discovery. We’ve worked on projects across countless disciplines including automated biodiversity assays, economic forecasting/algorithmic trading, and even AI powered music composition. The beauty of data science is that no matter what field you’re interested in or what job you want to pursue, data science elevates your ability to perform at the highest level. Data science is the quantitative backbone of contemporary inquiry, and getting a head start on tangible data skills empowers you to confidently tackle the challenges of higher education and beyond. 

@@ -13,7 +13,7 @@ Data is everywhere. In every career path, academic discipline, and even everyday
 
 ## Course Logistics
 
-The course will meet three times a week on MWF, with Friday's section being devoted to a lab to apply the material in a practical manner. The course will cost $200 a week. If this is a financial burden please don't hesitate to reach out. We don't want money to be a barrier for anyone.
+The course will meet three times a week on MWF starting on Monday, July 24th, with Friday's section being devoted to a lab to apply the material in a practical manner. The course will cost $200 a week. If this is a financial burden please don't hesitate to reach out. We don't want money to be a barrier for anyone.
 
 
 ## About This Course

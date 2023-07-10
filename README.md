@@ -21,7 +21,7 @@ seo:
     <p>
       <strong>Nikaash Maheshwari</strong><br>
       <a href="https://nikaash.maheshwari@berkeley.edu/">nikaash.maheshwari@berkeley.edu</a>
-      <strong>Berkeley Data Science + Economics</strong><br>
+      Berkeley Data Science + Economics<br>
     </p>
   </div>
   
@@ -30,7 +30,7 @@ seo:
     <p>
       <strong>Caleb Stevens</strong><br>
       <a href="https://caleb.stevens@berkeley.edu/">caleb.stevens@duke.edu</a>
-     <strong>Duke Computer Science + Environmental Science</strong><br>
+     Duke Computer Science + Environmental Science<br>
     </p>
   </div>
 </div> 

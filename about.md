@@ -4,7 +4,7 @@ title: About
 description: >-
     Course policies and information. 
 ---
-![ScreenShot](/assets/images/about.png)
+![ScreenShot](/assets/images/about_new.png)
 
 ## Why Data Science
 

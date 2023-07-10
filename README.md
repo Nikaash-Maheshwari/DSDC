@@ -44,7 +44,7 @@ This website is organized as follows:
 
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
-- and an about [about](about.md) page.
+- and an [about](about.md) page.
 
 
 

@@ -20,7 +20,7 @@ seo:
     <img src="assets/images/nikaaash-modified.png" width = "300"/>
     <p>
       <strong>Nikaash Maheshwari</strong><br>
-      <a href="https://nikaash.maheshwari@berkeley.edu/">nikaash.maheshwari@berkeley.edu</a>
+      <a href="https://nikaash.maheshwari@berkeley.edu/">nikaash.maheshwari@berkeley.edu</a><br>
         Berkeley Data Science + Economics<br>
     </p>
   </div>
@@ -29,7 +29,7 @@ seo:
     <img src="assets/images/caaleb-modified.png" width = "300"/>
     <p>
       <strong>Caleb Stevens</strong><br>
-      <a href="https://caleb.stevens@berkeley.edu/">caleb.stevens@duke.edu</a>
+      <a href="https://caleb.stevens@berkeley.edu/">caleb.stevens@duke.edu</a><br>
        Duke Computer Science + Environmental Science<br>
     </p>
   </div>

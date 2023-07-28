@@ -11,7 +11,7 @@ July 26
   : [Numpy](https://numpy.org/doc/), [Pandas](https://pandas.pydata.org/docs/), [More Pandas](https://www.w3schools.com/python/pandas/pandas_intro.asp)
 
 July 28
-: **Lab**{: .label .label-red } [Intro to Python + Pandas]([https://drive.google.com/drive/folders/1aeRT0h5A-5Hd9dKIKZ79acvoDzGb2HfV](https://drive.google.com/drive/folders/10HRUkVGSEJqDpoqrPs1Dqcht_dG8c-Zr)https://drive.google.com/drive/folders/10HRUkVGSEJqDpoqrPs1Dqcht_dG8c-Zr)
+: **Lab**{: .label .label-red } [Intro to Python + Pandas](https://drive.google.com/drive/folders/1aeRT0h5A-5Hd9dKIKZ79acvoDzGb2HfV](https://drive.google.com/drive/folders/10HRUkVGSEJqDpoqrPs1Dqcht_dG8c-Zr)https://drive.google.com/drive/folders/10HRUkVGSEJqDpoqrPs1Dqcht_dG8c-Zr)
   : [Numpy](https://numpy.org/doc/)
 
 

@@ -1,5 +1,5 @@
 ---
-title: Week 3 - Introduction to Machine Learning
+title: Week 3 - Visualization
 ---
 
 Aug 7

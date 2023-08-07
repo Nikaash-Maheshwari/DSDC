@@ -7,9 +7,9 @@ Aug 7
   : [15.0](https://inferentialthinking.com/chapters/15/Prediction.html), [16.0](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
 
 Aug 9
-: [TBD...](#)
+: [MACHINE LEARNING SPEEDRUN](#)
   : [17.0](https://inferentialthinking.com/chapters/17/Classification.html), [18.0](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
 
 Aug 11
-: **Lab**{: .label .label-red } [Visualization Fun](#)
+: **Lab**{: .label .label-red } [ML Lab](#)
 

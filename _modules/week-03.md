@@ -11,5 +11,5 @@ Aug 9
   : [17.0](https://inferentialthinking.com/chapters/17/Classification.html), [18.0](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
 
 Aug 11
-: **Lab**{: .label .label-red } [ML Lab](#)
+: **Lab**{: .label .label-red } [ML Lab](https://drive.google.com/drive/folders/10HRUkVGSEJqDpoqrPs1Dqcht_dG8c-Zr)
 

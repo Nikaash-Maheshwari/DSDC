@@ -1,5 +1,5 @@
 ---
-title: Week 3 - Visualization, Intro to ML
+title: Week 3 - Visualization + Intro to ML
 ---
 
 TBD

@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Create Your Own Project
+title: Week 4 - More ML + Assign Final Project
 ---
 
 TBD
